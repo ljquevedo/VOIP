@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Pronto Socorro Emergência grande",
+    "ramal": "8580",
+    "building": "HU",
+    "predio": "HU",
+    "andar": "1º"
+  },
+  {
+    "name": "Pronto Socorro Portaria Emergência",
+    "ramal": "8581",
+    "building": "HU",
+    "predio": "HU",
+    "andar": "1º"
+  },
+  {
+    "name": "⛑Bombeiros",
+    "ramal": "8489",
+    "building": "HU",
+    "predio": "HU",
+    "andar": "1º"
+  },
+  {
+    "name": "CDI Sala2",
+    "ramal": "8563",
+    "building": "HU",
+    "predio": "HU",
+    "andar": "2º"
+  },
+  {
+    "name": "Conforto Clinica Cirúrgica",
+    "ramal": "8495",
+    "building": "HU",
+    "predio": "HU",
+    "andar": "6º"
+  },
+  {
+    "name": "Infra - Engenharia",
+    "ramal": "8409",
+    "building": "HU",
+    "predio": "HU",
+    "andar": "2º"
+  },
+  {
+    "name": "SAP - Anestesia",
+    "ramal": "8372",
+    "building": "HU",
+    "predio": "HU",
+    "andar": "2º"
+  },
+  {
+    "name": "CDI ( Supervisão )",
+    "ramal": "8342",
+    "building": "HU",
+    "predio": "HU",
+    "andar": "2º"
+  },
+  {
+    "name": "Consultório 2 ( PA )",
+    "ramal": "8433",
+    "building": "PA",
+    "predio": "PA",
+    "andar": "1º"
+  },
+  {
+    "name": "8483",
+    "ramal": "8483",
+    "building": "Direção",
+    "predio": "Direção",
+    "andar": "1º"
+  },
+  {
+    "name": "Diretor",
+    "ramal": "8484",
+    "building": "Direção",
+    "predio": "Direção",
+    "andar": "1º"
+  }
+]
